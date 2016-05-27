@@ -1,0 +1,52 @@
+TF of Node
+1
+TG of Node
+2
+3
+4
+9
+10
+TF of Node
+2
+TG of Node
+9
+TF of Node
+3
+TG of Node
+2
+9
+5
+TF of Node
+4
+TG of Node
+3
+6
+TF of Node
+9
+TG of Node
+TF of Node
+10
+TG of Node
+9
+TF of Node
+5
+TG of Node
+4
+TF of Node
+6
+TG of Node
+5
+7
+8
+TF of Node
+7
+TG of Node
+8
+TF of Node
+8
+TG of Node
+7
+TF of Node
+11
+TG of Node
+2
